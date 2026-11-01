@@ -1,0 +1,6 @@
+{
+  "name": "CheckFlow",
+  "description": "A minimalist, glassmorphic checklist app with smooth animations, categories, and persistent local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
